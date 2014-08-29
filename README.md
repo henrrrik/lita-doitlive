@@ -7,7 +7,7 @@
 Add lita-doitlive to your Lita Gemfile:
 
 ``` ruby
-gem "lita-doitlive", github: "henrrrrik/lita-doitlive"
+gem "lita-doitlive", github: "henrrrik/lita-doitlive"
 ```
 
 ## Usage
